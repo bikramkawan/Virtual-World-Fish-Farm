@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 21efcfc475e6f6844a3c0465376de343
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fox_prefab: {fileID: 100000, guid: 4003b3a8897f14a4e93fce2c55a1e631, type: 2}
+  - rabbit_pref: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
